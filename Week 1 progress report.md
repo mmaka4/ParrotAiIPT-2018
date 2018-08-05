@@ -1,4 +1,4 @@
-# ParrotAiIPT-2018
+# ParrotAiIPT-2018: Week 1 Progress Report
 The Artificial Intelligence Practical training &amp; Machine Learning activities.
 On the first week of ParrotaiIPT 2018, I have been through many things and learned a lot of stuffs from reading books such as Hand On Machine Learning and, Introduction to Machine Learning with Python. Also I had a lot of practicals on implementing these theories that I have been reading them from the book. The key concepts that I have achieved through this week are as follows.
   * General introduction of machine learning
