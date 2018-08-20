@@ -35,7 +35,7 @@ In my case I had a problem of how to extract text from an image, I had no idea h
     * Fast processing
 
     It’s disadvantages:
-    * For it to work well require lot of datasets.
+    * For it to work well require lot of data.
 
     ### HOW TO LAYOUT AND MANAGE YOUR MACHINE LEARNING PROJECT
     And at last on weekend i have learned on how to arrange my Machine Learning project such as to structure files of my project to be cool. And it is as follows:
